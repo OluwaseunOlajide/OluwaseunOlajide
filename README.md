@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Oluwaseun Olajide and sometimes Web3giant 
-- 👀 I’m interested in smart contract and web development 
-- 🌱 I’m always learning a lot 
-- 💞️ I’m looking to collaborate on smart contract development
-- 📫 How to reach me my email is olajideoluwaseun04@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i Like anime,dogs 
-
+<h3>Hello there!</h3>
+<p>I am Oluwaseun Olajide I am a web3 security researcher and smart contract auditor I work on: </p>
+<li>HacKathons</li>
+<li>Bug bounties</li>
+<li>Practice Projectts</li>
+<p>you can contact me on:</p>
+<li>my email: oluwaseunolajide@gmail.com</li>
+<li>my x account: https://x.com/Web3GIANT_</li>
+<li>my discord: https://discord.com/web3giant1</li>
+<li>my telegram: https://t.me/WillofDavid</li>
 
 <!---
 OluwaseunOlajide/OluwaseunOlajide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
